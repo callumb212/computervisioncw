@@ -1,0 +1,5 @@
+function to make a list of identified object name and location
+use this to compare to the annotations in the test data to automatically calculate the accuracy
+time the function and get an average
+figure out why some objects are not identified or identified weird
+write report zzzz
